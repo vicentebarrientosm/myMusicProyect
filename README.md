@@ -36,5 +36,5 @@ MyMusic/
 |  | Columna A | Columna B | Columna C | Columna D | Columna E |
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | **Filas (Index)** | **Título Canción** | **Artista** | **Categoría** | **Portada** | **Audio** |
-| `1` | So What | P!nk | Pop | https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/portadas/pop/So?What.jpg | https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/audio/pop/So_What.jpg |
+| `1` | So What | P!nk | Pop | https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/portadas/pop/So_What.jpg | https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/audio/pop/So_What.mp3 |
     
