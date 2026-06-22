@@ -26,3 +26,15 @@ MyMusic/
     │   └── ...
     └── rock/
         └── ...
+```
+
+---
+
+## 🗃️ Estructura de la "Base de Datos"
+
+
+|  | Columna A | Columna B | Columna C | Columna D | Columna E |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| **Filas (Index)** | **Título Canción** | **Artista** | **Categoría** | **Portada** | **Audio** |
+| `1` | So What | P!nk | Pop | https://raw.githubusercontent.com/vicentebarrientosm/repo/main/portadas/pop/sowhat.jpg | https://raw.githubusercontent.com/vicentebarrientosm/repo/main/audio/pop/sowhat.jpg |
+    
