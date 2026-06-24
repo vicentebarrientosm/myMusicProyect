@@ -33,8 +33,8 @@ MyMusic/
 ## 🗃️ Estructura de la "Base de Datos"
 
 
-|  | Columna A | Columna B | Columna C | Columna D | Columna E |
-| :---: | :--- | :--- | :--- | :--- | :--- |
-| **Filas (Index)** | **Título Canción** | **Artista** | **Categoría** | **Portada** | **Audio** |
-| `1` | So What | P!nk | Pop | https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/portadas/pop/So_What.jpg | https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/audio/pop/So_What.mp3 |
+|  | Columna A | Columna B | Columna C | Columna D | Columna E | Columna F|
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Filas (Index)** | **Título Canción** | **Artista** | **Categoría** | **Portada** | **Audio** | **Duración** |
+| `1` | So What | P!nk | Pop | [Link Portada](https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/portadas/pop/So_What.jpg) | [Link Audio](https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/audio/pop/So_What.mp3) | 1:22 |
     
