@@ -14,14 +14,14 @@ Los recursos multimedia se encuentran organizados de manera simétrica por su ca
 
 ```text
 MyMusic/
-├── README.md               # Documentación del repositorio
-├── audio/                  # Archivos de sonido de las canciones
+├── README.md               -> Documentación del repositorio
+├── audio/                  -> Archivos de sonido de las canciones
 │   ├── pop/
 │   │   └── ...
 │   └── rock/
 │       └── ...
 │   
-└── portadas/               # Imágenes de carátulas de los temas
+└── portadas/               -> Imágenes de las carátulas de los temas
     ├── pop/
     │   └── ...
     └── rock/
