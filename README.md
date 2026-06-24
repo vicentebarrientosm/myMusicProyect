@@ -32,6 +32,7 @@ MyMusic/
 
 ## 🗃️ Estructura de la "Base de Datos"
 
+**Hoja de Cálculo**: [Google Sheets](https://docs.google.com/spreadsheets/d/11FKrEeahs9rXFS3qxtT7dAUMpZOsbxO9n1IK1yLSYRU/edit?usp=sharing)
 
 |  | Columna A | Columna B | Columna C | Columna D | Columna E | Columna F|
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
