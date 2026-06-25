@@ -34,8 +34,8 @@ MyMusic/
 
 **Hoja de Cálculo**: [Google Sheets](https://docs.google.com/spreadsheets/d/11FKrEeahs9rXFS3qxtT7dAUMpZOsbxO9n1IK1yLSYRU/edit?usp=sharing)
 
-|  | Columna A | Columna B | Columna C | Columna D | Columna E | Columna F|
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Filas (Index)** | **Título Canción** | **Artista** | **Categoría** | **Portada** | **Audio** | **Duración** |
-| `1` | So What | P!nk | Pop | [Link Portada](https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/portadas/pop/So_What.jpg) | [Link Audio](https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/audio/pop/So_What.mp3) | 1:22 |
+|  | Columna A | Columna B | Columna C | Columna D | Columna E | Columna F| Columna G |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Filas (Index)** | **Título Canción** | **Artista** | **Categoría** | **Portada** | **Audio** | **Duración** | **Duración Milisegundos** |
+| `1` | So What | P!nk | Pop | [Link Portada](https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/portadas/pop/So_What.jpg) | [Link Audio](https://raw.githubusercontent.com/vicentebarrientosm/myMusicProyect/main/audio/pop/So_What.mp3) | 4:06 | 246000 |
     
